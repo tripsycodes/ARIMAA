@@ -4,7 +4,8 @@ Arimaa is a two-player strategy board game that was designed to be playable with
 #**<ins>Implementation</ins>**:
 We have implemented 2 versions:\
 (i) Human vs Minimax Algorithm\
-(ii) Heuristic vs Minimax Algorithm
+(ii) Heuristic vs Minimax Algorithm\
+(iii) Human vs Heuristic
 
 #**<ins>Rules</ins>**:
 Arimaa is played on an 8×8 board with four trap squares. There are six kinds of pieces, ranging from elephant (strongest) to rabbit (weakest). Stronger pieces can push or pull weaker pieces, and stronger pieces freeze weaker pieces. Pieces can be captured by dislodging them onto a trap square when they have no orthogonally adjacent friendly pieces.
