@@ -35,3 +35,5 @@ A piece which is adjacent in any cardinal direction to a stronger opposing piece
 A piece which enters a trap square is captured and removed from the game unless there is a friendly piece orthogonally adjacent. Silver could move to capture the gold horse on d6 by pushing it to c6 with the elephant on d5. A piece on a trap square is captured when all adjacent friendly pieces move away. Thus if the silver rabbit on c4 and the silver horse on c2 move away, voluntarily or by being dislodged, the silver rabbit on c3 will be captured.
 
 Note that a piece may voluntarily step into a trap square, even if it is thereby captured. Also, the second step of a pulling maneuver is completed even if the piece doing the pulling is captured on the first step. For example, Silver could step the silver rabbit from f4 to g4 (so that it will no longer support pieces at f3), and then step the silver horse from f2 to f3, which captures the horse; the horse's move could still pull the gold rabbit from f1 to f2.
+
+![WhatsApp Image 2025-03-31 at 18 03 45_66612f1a](https://github.com/user-attachments/assets/8d8a0757-b032-4d71-8471-55306e37cc00)
