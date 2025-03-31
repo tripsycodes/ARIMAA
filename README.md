@@ -1,7 +1,7 @@
 # ARIMAA
 Arimaa is a two-player strategy board game that was designed to be playable with a standard chess set and difficult for computers while still being easy to learn and fun to play for humans. 
 
-**<ins>Rules</ins>**:
+#**<ins>Rules</ins>**:
 Arimaa is played on an 8×8 board with four trap squares. There are six kinds of pieces, ranging from elephant (strongest) to rabbit (weakest). Stronger pieces can push or pull weaker pieces, and stronger pieces freeze weaker pieces. Pieces can be captured by dislodging them onto a trap square when they have no orthogonally adjacent friendly pieces.
 
 The two players, Gold and Silver, each control sixteen pieces. These are, in order from strongest to weakest: one elephant, one camel, two horses, two dogs, two cats, and eight rabbits. These may be represented by the king, queen, rooks, bishops, knights, and pawns respectively when one plays using a chess set.
